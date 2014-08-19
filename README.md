@@ -14,7 +14,7 @@ The only way to use this universal interface so far is through a java gui client
 
 The goal of this project is to provide a python module allowing easy usage of this universal interface in any python 3.0+ application.
 
-This has been successfully tested on a MINT 16 os and on a Raspbian wheezy os (Most of it was tested anyway).
+This has been successfully tested on a Linux Mint 16 OS and on a Raspbian Wheezy OS (Most of it was tested anyway).
 
 Please feel free to contribute or contact me at Oussema HARBI <oussema.elharbi@gmail.com>
 
